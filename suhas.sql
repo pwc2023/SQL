@@ -1,1 +1,1 @@
-/* Hello. This is SQL Script*/
+/* Hello. This is SQL Script */
